@@ -1,0 +1,5 @@
+Név;Kor;Cím;Fizetés
+Hanga Deák;24;Gödöllő;200000.0
+Lívia Hegedüs;32;Isaszeg;180000.0
+Dorina Gáspár;45;Pilis;220000.0
+Emőke Péter;52;Monor;160000.0
